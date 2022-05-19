@@ -1,5 +1,5 @@
 # アンケートフォーム
-[]
+[https://makiishibashi.github.io/PHP_assignment/]
 ## PHPでのアンケートフォーム    
 
 # 苦労したところ
